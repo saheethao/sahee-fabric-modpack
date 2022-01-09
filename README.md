@@ -53,7 +53,6 @@ You may have to enter your Minecraft credentials to launch Minecraft
 * [Animatica](https://github.com/FoundationGames/Animatica)
 ### Progression
 * [FTB Quests](https://github.com/FTBTeam/FTB-Quests)
-* [Guild](https://github.com/Fulmineo64/Guild)
 * [LevelZ](https://github.com/Globox1997/LevelZ)
 * [Health Overlay](https://github.com/Terrails/HealthOverlay)
 * [Village Quests](https://github.com/Globox1997/VillagerQuests)
